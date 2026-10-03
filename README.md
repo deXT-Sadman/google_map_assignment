@@ -49,8 +49,4 @@ lib/
    `GMSServices.provideAPIKey("YOUR_KEY")` in `AppDelegate.swift`.
 3. `flutter run` on a real device or emulator (set a location in emulator settings).
 
-## Screenshots (put in `screenshots/`)
-1. `01_google_map.png` - Google Map
-2. `02_current_location.png` - current location
-3. `03_favorite_markers.png` - favorite markers
-4. `04_favorite_details.png` - favorite location details
+
